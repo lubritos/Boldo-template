@@ -3,6 +3,7 @@ import { Button } from "@mui/material";
 
 const Botones = styled.div`
     display:flex;
+    margin:1rem 0;
 `
 
 function Butons() {
